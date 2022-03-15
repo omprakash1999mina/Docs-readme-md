@@ -1,0 +1,6 @@
+# Price to sale ratio (P/S)
+The value of a sale (Price / Sales or P / S) is calculated by deducting the company's market capitalization (the value of the remaining shares multiplied by the share price) and divided by the company's total sales revenue or revenue over the past 12 years. months. The lower the P / S rate, the more attractive the investment. The retail price provides a useful measure of stock measurement.
+For example, if a company is not yet profitable, investors may look at the P / S ratio to determine whether the stock is not considered to be undervalued or too high. If the P / S ratio is lower than similar companies in the same profitable industry, investors may consider buying stocks because of the lower equity. Of course, the P / S ratio needs to be used with other financial measurements and metrics when determining whether stock is properly measured.
+
+<img src="https://i.postimg.cc/CMnjDf6B/Pngtree-online-trading-on-smartphone-concept-6847829.png" />
+<!-- <img src="https://i.postimg.cc/CMnjDf6B/Pngtree-online-trading-on-smartphone-concept-6847829.png" width="100" height="100" /> -->

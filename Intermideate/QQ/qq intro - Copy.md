@@ -3,4 +3,5 @@ The qualitative analysis In this analysis we analyse those accept Which can’t 
 
 The quantitative analysis is the analysis which deals with numbers. Which uses statistical modelling , measurement and various types of research to understand behaviour. In this all types of financial statements such as balance sheets income statement cash flow statement comes.
 
-![text img](https://pngtree.com/freepng/mathematical-arithmetic-function-ruler-compass-compass-pencil-math-symbol_5363369.html)
+<img src="https://i.postimg.cc/CMnjDf6B/Pngtree-online-trading-on-smartphone-concept-6847829.png" />
+<!-- <img src="https://i.postimg.cc/CMnjDf6B/Pngtree-online-trading-on-smartphone-concept-6847829.png" width="100" height="100" /> -->
